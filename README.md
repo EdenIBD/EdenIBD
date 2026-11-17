@@ -1,6 +1,6 @@
-# Hi, I'm Eden 👋
+# Eden
 
-I build practical applications and explore how AI and data can make complex information easier to use. I'm interested in the full journey: defining a problem, building a product, and understanding where it works—and where it doesn't.
+I like building apps that solve problems I care about. Lately, I've been working on AI and data projects while studying data structures and algorithms.
 
 **Areas I enjoy:** AI applications · data analytics · backend development · product building
 
